@@ -68,3 +68,5 @@ plt.hist(loss_lr, bins=20, alpha=0.6, label='LinearRegression', color='red', edg
 plt.legend()
 plt.show()
 
+
+print("Tal was here...")
